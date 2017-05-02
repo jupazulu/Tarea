@@ -8,6 +8,7 @@ v = tkinter.Tk()
 # crea los widgets
 d = tkinter.Canvas(v, bg="blue", width=1024, height=768)
 boton1 = tkinter.Button(v,text="Start")
+boton2 = tkinter.Button(v,text="Starrt")
 
 
 # mustra los widgets
